@@ -1,0 +1,5 @@
+com/javatechie/spring/cassandra/api/repository/UserRepository.class
+com/javatechie/spring/cassandra/api/controller/UserController.class
+com/javatechie/spring/cassandra/api/SpringReactiveCassandraApplication.class
+com/javatechie/spring/cassandra/api/model/UserDetail.class
+com/javatechie/spring/cassandra/api/config/CassandraConfig.class
