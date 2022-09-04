@@ -1,2 +1,6 @@
 # spring-reactive-cassandra
-this explore more about SpringData Reactive Cassandra Repositories  with a set of high-level abstraction CRUD methods
+Open Peroformance-test- collection directory to see result of tests using Locust 
+Tested Below three variants with cassandra
+Spring MVC Blocking 
+Spring MVC Non Blocking using Completeable Future
+Spring WebFlux 
